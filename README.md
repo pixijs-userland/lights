@@ -1,12 +1,12 @@
 # PixiJS Lights
 
-[![Build CI](https://github.com/pixijs/lights/actions/workflows/build.yml/badge.svg)](https://github.com/pixijs/lights/actions/workflows/build.yml) [![npm version](https://badge.fury.io/js/@pixi%2Flights.svg)](https://badge.fury.io/js/@pixi%2Flights)
+[![Build CI](https://github.com/pixijs-userland/lights/actions/workflows/build.yml/badge.svg)](https://github.com/pixijs-userland/lights/actions/workflows/build.yml) [![npm version](https://badge.fury.io/js/@pixi%2Flights.svg)](https://badge.fury.io/js/@pixi%2Flights)
 
 A plugin that adds deferred lighting to PixiJS.
 
-**Note**: This modules *requires* v7.0.0+ of [PixiJS](https://github.com/pixijs/pixijs) and v2.0.1+ of [@pixi/layers](https://github.com/pixijs/layers).
+**Note**: This modules *requires* v7.0.0+ of [PixiJS](https://github.com/pixijs/pixijs) and v2.0.1+ of [@pixi/layers](https://github.com/pixijs-userland/layers).
 
-* [Demo](https://pixijs.io/lights/examples/)
+* [Demo](https://userland.pixijs.io/lights/examples/)
 
 ## Usage
 
@@ -60,7 +60,7 @@ app.stage.addChild(
 );
 ```
 
-* [Run This](https://pixijs.io/lights/examples/usage.html)
+* [Run This](https://userland.pixijs.io/lights/examples/usage.html)
 
 ### Filters
 
